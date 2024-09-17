@@ -2,8 +2,8 @@
 
 <img src="https://i.pinimg.com/736x/a1/41/87/a14187e4240c9fd12ed8a8a1d454dcf8.jpg" 
      alt="Coding" 
-     width="300" 
-     height="370" 
+     width="200" 
+     height="250" 
      align="right" >
 
 I'm Abdullah ghazal, I'm dedicated **Electronics and Electrical Communications** undergraduate with a strong passion for **embedded systems**, **digital design**, and **FPGA development** 💡. Proficient in **C/Embedded C** and **RTL design using Verilog**. Currently exploring the application of the **DSP world** and other fields. Eager to apply theoretical knowledge to real-world applications and contribute to innovative projects in the field. Seeking opportunities to collaborate with industry professionals and expand my understanding of the embedded systems ecosystem.
