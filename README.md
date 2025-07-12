@@ -1,7 +1,7 @@
 # 👋 Hello there!
 
-<img width="250" height="250" align="right" alt="Gemini_Generated_Image_3d0ybq3d0ybq3d0y" src="https://github.com/user-attachments/assets/bbce0e89-1d5a-4212-b6f7-4b6485d627bf" />
-
+[<img width="250" height="250" align="right" alt="Gemini_Generated_Image_3d0ybq3d0ybq3d0y" src="https://github.com/user-attachments/assets/bbce0e89-1d5a-4212-b6f7-4b6485d627bf" />
+](https://www.pinterest.com/pin/1118229782496698119/)
 
 
 I'm **Electronics and Communications Engineering** student, I’m deeply passionate about building bridges between **mathematics**, **artificial intelligence**, and **real-world impact**. My journey is fueled by an insatiable curiosity for how **AI and analytical thinking** can reshape industries — particularly in **healthcare**, where innovation can genuinely save lives.
